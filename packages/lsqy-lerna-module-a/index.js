@@ -1,2 +1,2 @@
 const core = require('lsqy-lerna-core')
-module.exports = 'lsqy-lerna-module01'
+module.exports = 'lsqy-lerna-module-a'
