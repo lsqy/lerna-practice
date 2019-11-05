@@ -1,6 +1,6 @@
 {
   "name": "lsqy-lerna-module01",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
+  "dependencies": {
+    "lsqy-lerna-core": "^0.0.1"
+  },
   "license": "ISC"
 }

@@ -1,13 +1,10 @@
 {
   "name": "lsqy-lerna-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "lsqy-lerna-module01": "^0.0.1"
   },
   "author": "lsqy",
   "license": "ISC"

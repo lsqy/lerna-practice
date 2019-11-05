@@ -1,0 +1,1 @@
+module.exports = 'lsqy-lerna-core'
